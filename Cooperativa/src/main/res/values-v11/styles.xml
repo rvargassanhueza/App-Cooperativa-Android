@@ -8,4 +8,11 @@
         <!-- API 11 theme customizations can go here. -->
     </style>
 
+    <style name="full_screen" parent="android:Theme.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+
 </resources>

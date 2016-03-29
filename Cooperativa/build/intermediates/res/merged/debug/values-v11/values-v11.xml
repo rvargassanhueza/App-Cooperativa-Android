@@ -63,4 +63,8 @@
     <style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.Holo.ProgressBar"/>
     <style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.Holo.ProgressBar.Horizontal"/>
     <style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.Holo.Light.AutoCompleteTextView"/>
+    <style name="full_screen" parent="android:Theme.Light">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
 </resources>

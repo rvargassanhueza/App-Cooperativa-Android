@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\innova6\\AndroidStudioProjects\\R-StreamingCoop\\StreamingCoop\\Cooperativa\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text_holo.xml",
         "source": "C:\\Users\\innova6\\AndroidStudioProjects\\R-StreamingCoop\\StreamingCoop\\Cooperativa\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "C:\\Users\\innova6\\AndroidStudioProjects\\MiRepositorio\\Cooperativa\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\innova6\\AndroidStudioProjects\\MiRepositorio\\Cooperativa\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
     }
 ]

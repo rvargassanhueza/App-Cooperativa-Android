@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
 
     <!--
         Base application theme, dependent on API level. This theme is replaced
@@ -17,5 +17,13 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
+    <!-- Stuff that's already in here -->
+
+    <style name="full_screen" parent="android:Theme.Light">
+        <item name="android:windowActionBar" tools:targetApi="honeycomb">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <!-- Stuff that's already in here -->
 
 </resources>
